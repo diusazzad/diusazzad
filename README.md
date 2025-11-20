@@ -1,25 +1,82 @@
-<h1 align="center">Hi 👋, I'm sazzad hossain</h1>
-<h3 align="center">"As a passionate and inquisitive developer, I am constantly driven by the desire to explore and learn new technologies. I may not possess any unique talents, but I do have an unquenchable thirst for knowledge and a deep-rooted love for solving complex problems. My curiosity fuels my journey, propelling me to tackle new challenges and seize every opportunity for personal and professional growth. I consider myself a lifelong learner who thrives on embracing fresh challenges and conquering them with zeal."</h3>
+<h1 align="center">👋 Hey, I'm Sazzad Hossain</h1>
+<h3 align="center">Full Stack Developer · Laravel Ecosystem · JavaScript · AI Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diusazzad&label=Profile%20views&color=0e75b6&style=flat" alt="diusazzad" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diusazzad" alt="diusazzad" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/diusazzad?tab=repositories](https://github.com/diusazzad?tab=repositories)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/diusazzad/recent-activity/all/](https://www.linkedin.com/in/diusazzad/recent-activity/all/)
-
-- 📫 How to reach me **sazzad35-23@diu.edu.bd**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/diusazzad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diusazzad/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/sazzad35_283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sazzad35_283" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diusazzad&color=blueviolet&style=flat-square" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
+## 🚀 About Me
 
+Full Stack Developer focusing on building scalable, API-driven applications with **Laravel**, **JavaScript**, and modern cloud-native tools.  
+Passionate about engineering clean architectures, performance optimization, and AI-assisted development workflows.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diusazzad&" alt="diusazzad" /></p>
+I am also the founder of **ZenGfy**, an expanding SaaS ecosystem built with modular multi-service architecture integrating E-commerce, School ERP, Hotel Management, and AI-powered tools.
+
+I enjoy:
+- Architecting backend systems  
+- Designing developer-friendly APIs  
+- Building SaaS platforms from scratch  
+- Exploring AI tools & automation  
+
+---
+
+## 💼 Professional Experience
+
+### 🔹 **Full Stack Developer — Raw Axiom (Remote, Toronto)**  
+**Nov 2025 – Present**  
+- Implement scalable **REST APIs** using Laravel for multi-platform integrations.  
+- Build dynamic frontends using modern JavaScript frameworks.  
+- Enhance architecture for maintainability, performance, and security.  
+- Contribute to feature design across backend & UI systems.
+
+---
+
+### 🔹 **Founder & Full Stack Developer — ZenGfy (SaaS Platform)**  
+**2023 – Present**  
+- Architected a modular platform supporting multiple services under a single unified account.  
+- Developed service-oriented backend using **Laravel**, **REST APIs**, and scalable database structure.  
+- Built and deployed multiple sub-systems:  
+  - 🛒 E-commerce  
+  - 🏫 School ERP  
+  - 🏨 Hotel Management  
+  - 🤖 AI-Based Tools  
+- Led the entire development life cycle: requirements → architecture → development → deployment.  
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** HTML · CSS · Tailwind · JavaScript · React · Vue · Flutter  
+**Backend:** PHP · Laravel · Node.js · Django · REST APIs  
+**AI/ML:** Scikit-learn · TensorFlow · NLP  
+**DevOps:** Docker · Git · AWS · Linux · CI/CD  
+**Tools:** MySQL · Postman · Figma  
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=diusazzad&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diusazzad&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/diusazzad/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/sazzad35_283" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" />
+  </a>
+</p>
+
+📧 **sazzad35-283@diu.edu.bd**
