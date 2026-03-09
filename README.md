@@ -60,7 +60,13 @@ I am also the founder of **[ZenGfy](https://zengfy.top)**, an expanding SaaS eco
 ### 📊 Vital Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=diusazzad&theme=dracula&hide_border=true&stroke=bd93f9&ring=ff79c6&fire=ffb86c&currStreakLabel=ff79c6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diusazzad&theme=radical" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=diusazzad&show_icons=true&theme=radical&hide_border=true&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=diusazzad&theme=radical&hide_border=true&stroke=bd93f9&ring=ff79c6&fire=ffb86c&currStreakLabel=ff79c6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=diusazzad&layout=compact&theme=radical&hide_border=true&title_color=bd93f9&text_color=f8f8f2" />
 </p>
 
 ---
