@@ -1,82 +1,75 @@
-<h1 align="center">👋 Hey, I'm Sazzad Hossain</h1>
-<h3 align="center">Full Stack Developer · Laravel Ecosystem · JavaScript · AI Engineering</h3>
+<p align="center">
+  <img src="github_profile_banner_sazzad.png" width="100%" />
+</p>
 
+<h1 align="center">👋 Hey, I'm Sazzad Hossain</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=diusazzad&color=blueviolet&style=flat-square" />
 </p>
 
----
-
-## 🚀 About Me
-
-Full Stack Developer focusing on building scalable, API-driven applications with **Laravel**, **JavaScript**, and modern cloud-native tools.  
-Passionate about engineering clean architectures, performance optimization, and AI-assisted development workflows.
-
-I am also the founder of **ZenGfy**, an expanding SaaS ecosystem built with modular multi-service architecture integrating E-commerce, School ERP, Hotel Management, and AI-powered tools.
-
-I enjoy:
-- Architecting backend systems  
-- Designing developer-friendly APIs  
-- Building SaaS platforms from scratch  
-- Exploring AI tools & automation  
-
----
-
-## 💼 Professional Experience
-
-### 🔹 **Full Stack Developer — Raw Axiom (Remote, Toronto)**  
-**Nov 2025 – Present**  
-- Implement scalable **REST APIs** using Laravel for multi-platform integrations.  
-- Build dynamic frontends using modern JavaScript frameworks.  
-- Enhance architecture for maintainability, performance, and security.  
-- Contribute to feature design across backend & UI systems.
-
----
-
-### 🔹 **Founder & Full Stack Developer — ZenGfy (SaaS Platform)**  
-**2023 – Present**  
-- Architected a modular platform supporting multiple services under a single unified account.  
-- Developed service-oriented backend using **Laravel**, **REST APIs**, and scalable database structure.  
-- Built and deployed multiple sub-systems:  
-  - 🛒 E-commerce  
-  - 🏫 School ERP  
-  - 🏨 Hotel Management  
-  - 🤖 AI-Based Tools  
-- Led the entire development life cycle: requirements → architecture → development → deployment.  
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend:** HTML · CSS · Tailwind · JavaScript · React · Vue · Flutter  
-**Backend:** PHP · Laravel · Node.js · Django · REST APIs  
-**AI/ML:** Scikit-learn · TensorFlow · NLP  
-**DevOps:** Docker · Git · AWS · Linux · CI/CD  
-**Tools:** MySQL · Postman · Figma  
-
----
-
-## 📊 GitHub Insights
+<h3 align="center">Full Stack Developer | Laravel & JavaScript Specialist | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=diusazzad&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diusazzad&show_icons=true&theme=dark&hide_border=true" />
+  <i>"I HAVE NO SPECIAL TALENTS. I AM ONLY PASSIONATELY CURIOUS."</i>
 </p>
 
 ---
 
-## 🌍 Connect With Me
+### 🚀 About Me
 
-<p>
-  <a href="https://www.linkedin.com/in/diusazzad/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/sazzad35_283" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" />
-  </a>
+I am a **Full Stack Developer** dedicated to building high-performance, scalable applications. My expertise lies in the **Laravel Ecosystem**, **modern JavaScript**, and **AI Engineering**. I enjoy architecting clean, maintainable systems and exploring the frontiers of automation.
+
+I am also the founder of **[ZenGfy](https://zengfy.top)**, an expanding SaaS ecosystem built with modular multi-service architecture integrating E-commerce, School ERP, Hotel Management, and AI-powered tools.
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-📧 **sazzad35-283@diu.edu.bd**
+---
+
+### 💼 Professional Experience
+
+- **🚀 Full Stack Developer @ Raw Axiom** (Remote, Toronto) | *Nov 2025 – Present*
+  - Scaling REST APIs and dynamic frontends for global clients.
+- **💡 Founder & Developer @ ZenGfy** | *2023 – Present*
+  - Architecting a multi-service SaaS ecosystem (E-commerce, ERP, AI Tools).
+
+---
+
+### ✨ Featured Projects
+
+- 🛠️ **[ZenGfy](https://zengfy.top)**: Multi-service modular SaaS platform.
+- 📊 **[Algorithms Visualization](https://github.com/diusazzad/algorithms_visualization)**: Interactive tool for learning algorithms.
+- 🗺️ **[LaravelDoc](https://github.com/diusazzad/laraveldoc)**: A comprehensive learning roadmap for Laravel.
+
+---
+
+### 📊 Vital Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=diusazzad&theme=dracula&hide_border=true&stroke=bd93f9&ring=ff79c6&fire=ffb86c&currStreakLabel=ff79c6" />
+</p>
+
+---
+
+### 🌍 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/diusazzad/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sazzad35-283@diu.edu.bd"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://zengfy.top" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UCSXSAhBKesF5vtOjZbqFueQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
