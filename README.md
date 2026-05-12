@@ -76,6 +76,6 @@ I am also the founder of **[ZenGfy](https://zengfy.top)**, an expanding SaaS eco
 <p align="left">
   <a href="https://www.linkedin.com/in/diusazzad/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sazzad35-283@diu.edu.bd"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://zengfy.top" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://zengfy.top/team" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://www.youtube.com/channel/UCSXSAhBKesF5vtOjZbqFueQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
