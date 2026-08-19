@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hey, I'm Sazzad Hossain</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diusazzad&color=blueviolet&style=flat-square" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=diusazzad&color=blueviolet&style=flat-square" /> -->
 </p>
 
 <h3 align="center">Full Stack Developer | Laravel & JavaScript Specialist | AI Enthusiast</h3>
@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-I am a **Full Stack Developer** dedicated to building high-performance, scalable applications. My expertise lies in the **Laravel Ecosystem**, **modern JavaScript**, and **AI Engineering**. I enjoy architecting clean, maintainable systems and exploring the frontiers of automation.
+Laravel Developer at Raw Axiom, focused on PHP, Laravel, REST APIs, integrations, and responsive web applications. Creator of LaraNexus, an open-source tool for visualizing Laravel application flows.
 
 I am also the founder of **[ZenGfy](https://zengfy.top)**, an expanding SaaS ecosystem built with modular multi-service architecture integrating E-commerce, School ERP, Hotel Management, and AI-powered tools.
 
