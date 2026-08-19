@@ -1,10 +1,10 @@
-<p align="center">
+<!-- <p align="center">
   <img src="github_profile_banner_sazzad.png" width="100%" />
-</p>
+</p> -->
 
 <h1 align="center">👋 Hey, I'm Sazzad Hossain</h1>
 <p align="center">
-  <!-- <img src="https://komarev.com/ghpvc/?username=diusazzad&color=blueviolet&style=flat-square" /> -->
+  <img src="https://komarev.com/ghpvc/?username=diusazzad&color=blueviolet&style=flat-square" />
 </p>
 
 <h3 align="center">Full Stack Developer | Laravel & JavaScript Specialist | AI Enthusiast</h3>
